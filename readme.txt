@@ -2,7 +2,7 @@
 
 Установка
 
-В первую очередь клонируем репозиторий https://github.com/cpa1team/docker
+В первую очередь клонируем репозиторий https://github.com/Albert9595/test
 
 Далее заходим в проект и запускаем виртуальное окружение:  source parser/bin/activate
 
